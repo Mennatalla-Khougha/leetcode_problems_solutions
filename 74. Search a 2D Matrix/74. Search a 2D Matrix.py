@@ -1,7 +1,7 @@
 from typing  import List
 
 
-def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
+def searchMatrix(matrix: List[List[int]], target: int) -> bool:
     """
     The function `searchMatrix` takes a matrix and a target integer as input, and returns True if the
     target is found in the matrix, and False otherwise.
